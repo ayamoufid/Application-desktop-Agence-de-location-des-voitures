@@ -1,0 +1,8 @@
+test,test,B700,Mme
+ayoub,ay,1234567,Mr
+hasnae,hasnae,333222,Mme
+MOUFID1,Aya1,987,Mme
+ayoub,ayoub,12366,Mr
+hasnae,hasnae,33322,Mme
+MOUFID,Aya,555,Mme
+4,4,4,Mme
